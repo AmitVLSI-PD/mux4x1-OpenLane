@@ -1,0 +1,18 @@
+
+75. Printing statistics.
+
+=== mux4x1 ===
+
+   Number of wires:                  8
+   Number of wire bits:              8
+   Number of public wires:           8
+   Number of public wire bits:       8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sky130_fd_sc_hd__buf_1          1
+     sky130_fd_sc_hd__mux4_2         1
+
+   Chip area for module '\mux4x1': 26.275200
+

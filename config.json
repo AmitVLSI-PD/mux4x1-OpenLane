@@ -1,0 +1,16 @@
+{
+       "DESIGN_NAME": "mux4x1",
+       "VERILOG_FILES": "dir::src/mux4x1.v",
+       "CLOCK_PORT": "",
+       "CLOCK_PERIOD": 10.0,
+       "FP_SIZING": "absolute",
+       "DIE_AREA": "0 0 100 100",
+       "FP_ASPECT_RATIO": 1.0,
+       "FP_CORE_UTIL": 50,
+       "PL_TARGET_DENSITY": 0.6,
+       "SYNTH_NO_FLAT": true,
+       "GRT_ADJUSTMENT": 0.3,
+       "GRT_ALLOW_CONGESTION": false,
+       "PDK": "sky130A",
+       "PDK_ROOT": "/home/amit/.volare"
+   }
